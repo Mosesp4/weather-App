@@ -14,9 +14,8 @@ Responsive design for optimal viewing on various devices
 
 The Weather Application is built using the following technologies: <br />
 
-- HTML5 <br />
+- React js <br />
 - CSS3 <br />
-- JavaScript <br />
 - OpenWeatherMap API <br />
 
 ## `Perequisite`
